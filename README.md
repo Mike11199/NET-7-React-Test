@@ -9,3 +9,6 @@
 - run locally:  dotnet run  C:\Users\miwan\Desktop\Git\NET GraphQL App\Project1\Project1\Project1.csproj
 - can also just use ctrl + f5 
 - docker wouldn't work even after 2 hours of debugging.  hosted server part but not react front end.
+
+![image](https://user-images.githubusercontent.com/91037796/226829181-78759b63-83fc-4f12-bbca-76d3040234cf.png)
+
