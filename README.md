@@ -1,4 +1,4 @@
-# Project1
+# Visual Studio - Testing NET 7 TypeScript - C# and JS
 
 - from testing new project with this in visual studio - weather app template with .NET back end and react front end:
 
